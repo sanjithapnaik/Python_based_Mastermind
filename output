@@ -1,0 +1,16 @@
+The game has been simulated, and here are the results:
+
+- **Secret Code**: `['G', 'B', 'Y', 'P']`
+- **Attempts**:
+  1. Guess: `['O', 'Y', 'G', 'B']` - Correct positions: 0, Correct colors: 3
+  2. Guess: `['P', 'G', 'O', 'B']` - Correct positions: 0, Correct colors: 3
+  3. Guess: `['Y', 'R', 'P', 'G']` - Correct positions: 0, Correct colors: 3
+  4. Guess: `['G', 'Y', 'B', 'P']` - Correct positions: 2, Correct colors: 2
+  5. Guess: `['O', 'G', 'B', 'Y']` - Correct positions: 0, Correct colors: 3
+  6. Guess: `['Y', 'O', 'G', 'B']` - Correct positions: 0, Correct colors: 3
+  7. Guess: `['Y', 'P', 'R', 'B']` - Correct positions: 0, Correct colors: 3
+  8. Guess: `['R', 'B', 'O', 'Y']` - Correct positions: 1, Correct colors: 1
+  9. Guess: `['G', 'B', 'Y', 'O']` - Correct positions: 3, Correct colors: 0
+  10. Guess: `['G', 'P', 'B', 'R']` - Correct positions: 1, Correct colors: 2
+
+- **Outcome**: The game ended without successfully guessing the secret code. The correct code was `['G', 'B', 'Y', 'P']`.
